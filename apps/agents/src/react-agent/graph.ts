@@ -14,28 +14,11 @@ export const model = new ChatOllama({
   // format: "json",
 });
 
-export const createAgent = (tools: ToolNode[] = []) =>
+export const createAgent = (tools = []) =>
   createReactAgent({
     llm: model,
     tools,
   });
-  // export const getWeather = tool({
-  //   name: "get_weather",
-  //   description: "Get current weather for a given city",
-  //   // parameters are validated with JSON schema
-  //   schema: {
-  //     type: "object",
-  //     properties: {
-  //       city: { type: "string", description: "City name" },
-  //     },
-  //     required: ["city"],
-  //   },
-  //   // The function logic
-  //   async func({ city }: { city: string }) {
-  //     // You can replace this with a real API call
-  //     return `It's sunny in ${city}`;
-  //   },
-  // });
 
 // Define the function that calls the model
 async function callModel(
@@ -47,18 +30,8 @@ async function callModel(
 
   // Feel free to customize the prompt, model, and other logic!
   // const model = (await loadChatModel(configuration.model)).bindTools(TOOLS);
-  const model = createAgent();
+  const model = createAgent(TOOLS);
 
-  // const response = await model.invoke([
-  //   {
-  //     role: "system",
-  //     content: configuration.systemPromptTemplate.replace(
-  //       "{system_time}",
-  //       new Date().toISOString(),
-  //     ),
-  //   },
-  //   ...state.messages,
-  // ]);
   const response = await model.invoke({
     messages: [
       {
