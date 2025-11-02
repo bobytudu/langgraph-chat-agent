@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { tool } from "@langchain/core/tools";
 import slackUserData from "../slack_data/users.json" with { type: "json" };
-import { client, listAllReplies, type ThreadReplies, formatError, getSlackChannelId, replaceUserIdWithName } from "./utils.js";
+import { client, listAllReplies, type ThreadReplies, formatError, getSlackChannelId, replaceUserIdWithNameInAText, replaceUserIdWithName } from "./utils.js";
 
 
 const listAllSlackUsers = tool(
@@ -65,8 +65,8 @@ const getSlackChannelHistory = tool(
         }
 
         return {
-          text: replaceUserIdWithName(message.text || ""),
-          user: message.user,
+          text: replaceUserIdWithNameInAText(message.text || ""),
+          user: replaceUserIdWithName(message.user || ""),
           thread_ts: message.ts,
           reply_count: message.reply_count,
           replies: replies.slice(1),

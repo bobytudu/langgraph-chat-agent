@@ -1,6 +1,6 @@
 import { initChatModel } from "langchain/chat_models/universal";
 import slackChannels from "../slack_data/channels.json" with { type: "json" };
-import slackUserData from "../slack_data/users.json" with { type: "json" };
+import slackUserData from "../slack_data/users_map.json" with { type: "json" };
 import { WebClient, LogLevel } from "@slack/web-api";
 /**
  * Load a chat model from a fully specified name.
@@ -64,8 +64,8 @@ export async function listAllReplies(channel_id: string, thread_ts: string): Pro
       "ts": thread_ts,
     })
     const modifiedResult = result.messages?.map((message) => ({
-      text: replaceUserIdWithName(message.text || ""),
-      user: message.user,
+      text: replaceUserIdWithNameInAText(message.text || ""),
+      user: replaceUserIdWithName(message.user || ""),
       thread_ts: message.ts,
     }))
     return modifiedResult as ThreadReplies[] || [];
@@ -79,11 +79,16 @@ export function getSlackChannelId(channel_name: string) {
   return channel?.id;
 }
 
-export function replaceUserIdWithName(text: string) {
+export function replaceUserIdWithName(user_id: string) {
+  const user = slackUserData.find((user: any) => user.id === user_id);
+  return user?.display_name || user_id;
+}
+
+export function replaceUserIdWithNameInAText(text: string) {
   const userIdPattern = /<@U[A-Z0-9]+>/g;
   return text.replace(userIdPattern, (match) => {
     const user_id = match.replace("<@", "").replace(">", "");
-    const user_name = slackUserData.find((user: any) => user.id === user_id);
-    return `@${user_name?.name || user_id}`;
+    const user = slackUserData.find((user: any) => user.id === user_id);
+    return `@${user?.display_name || user_id}`;
   });
 }

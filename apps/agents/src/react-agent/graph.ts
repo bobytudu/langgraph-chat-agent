@@ -29,7 +29,7 @@ async function callModel(
 
   // Feel free to customize the prompt, model, and other logic!
   // const model = (await loadChatModel(configuration.model)).bindTools(TOOLS);
-  const model = createAgent(TOOLS);
+  const model = createAgent();
 
   const response = await model.invoke({
     messages: [
