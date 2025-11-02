@@ -1,40 +1,8 @@
 import { z } from "zod";
 import { tool } from "@langchain/core/tools";
-import { WebClient, LogLevel } from "@slack/web-api";
 import slackUserData from "../slack_data/users.json" with { type: "json" };
+import { client, listAllReplies, type ThreadReplies, formatError, getSlackChannelId, replaceUserIdWithName } from "./utils.js";
 
-const client = new WebClient(
-  "token_here",
-  {
-    logLevel: LogLevel.DEBUG,
-  }
-);
-
-interface ThreadReplies extends Omit<ConversationHistory, 'reply_count'> {
-  
-}
-
-interface ConversationHistory {
-  text: string;
-  user: string;
-  thread_ts: string;
-  reply_count: number;
-}
-
-function formatError(error: any) {
-  console.log({
-    type: "error",
-    message: error.message,
-  });
-  return JSON.stringify(
-    {
-      type: "error",
-      message: error.message,
-    },
-    null,
-    2
-  );
-}
 
 const listAllSlackUsers = tool(
   () => {
@@ -78,48 +46,33 @@ const getAllSlackChannels = tool(
   }
 );
 
-
-async function listAllReplies(channel_id: string, thread_ts: string): Promise<ThreadReplies[]> {
-  try {
-    const result = await client.conversations.replies({
-      // "channel": "C04PG83EVDZ",
-      // "ts": "1761932188.106999"
-      "channel": channel_id,
-      "ts": thread_ts,
-    })
-    const modifiedResult = result.messages?.map((message) => ({
-      text: message.text,
-      user: message.user,
-      thread_ts: message.ts,
-    }))
-    return modifiedResult as ThreadReplies[] || [];
-  } catch (error: any) {
-    throw new Error(error.message);
-  }
-}
-
 const getSlackChannelHistory = tool(
-  async ({ channel_id }: { channel_id: string }) => {
+  async ({ channel_name }: { channel_name: string }) => {
     try {
+      const channel_id = getSlackChannelId(channel_name);
+      if (!channel_id) {
+        return formatError({ message: `Channel ${channel_name} not found` });
+      }
       const result = await client.conversations.history({
         channel: channel_id, // "C04PG83EVDZ"
         latest: "1761902539828", // date in milliseconds
         limit: 10,
       });
-      const modifiedResult = result.messages?.map(async (message) => {
+      const modifiedResultPromises = result.messages?.map(async (message) => {
         let replies: ThreadReplies[] = [];
         if (message?.reply_count && message.reply_count > 0) {
           replies = await listAllReplies(channel_id, message.ts as string);
         }
 
         return {
-          text: message.text,
+          text: replaceUserIdWithName(message.text || ""),
           user: message.user,
           thread_ts: message.ts,
           reply_count: message.reply_count,
-          replies,
+          replies: replies.slice(1),
         }
       })
+      const modifiedResult = await Promise.all(modifiedResultPromises || []);
       return JSON.stringify(modifiedResult, null, 2);
     } catch (error: any) {
       return formatError(error);
@@ -129,9 +82,9 @@ const getSlackChannelHistory = tool(
     name: "get_slack_channel_history",
     description: "Get the history of a slack channel",
     schema: z.object({
-      channel_id: z
+      channel_name: z
         .string()
-        .describe("The ID of the slack channel to get the history of."),
+        .describe("The name of the slack channel to get the history of."),
     }),
   }
 );

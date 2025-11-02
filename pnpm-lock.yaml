@@ -168,6 +168,9 @@ importers:
 
   apps/web:
     dependencies:
+      '@iconify/react':
+        specifier: ^6.0.2
+        version: 6.0.2(react@19.2.0)
       '@langchain/core':
         specifier: ^0.3.42
         version: 0.3.79(@opentelemetry/api@1.9.0)(openai@4.104.0(ws@8.18.3)(zod@3.25.76))
@@ -960,6 +963,14 @@ packages:
   '@ibm-cloud/watsonx-ai@1.7.2':
     resolution: {integrity: sha512-8NhBvyWoHM/UjOF2AZPqO1otu82lTA0su1VTsCIafC0G1+KW4uFGUIDjI2b/gJrIAtQy7c9so/fTERe/lCv3iw==}
     engines: {node: '>=18.0.0'}
+
+  '@iconify/react@6.0.2':
+    resolution: {integrity: sha512-SMmC2sactfpJD427WJEDN6PMyznTFMhByK9yLW0gOTtnjzzbsi/Ke/XqsumsavFPwNiXs8jSiYeZTmLCLwO+Fg==}
+    peerDependencies:
+      react: '>=16'
+
+  '@iconify/types@2.0.0':
+    resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
 
   '@isaacs/fs-minipass@4.0.1':
     resolution: {integrity: sha512-wgm9Ehl2jpeqP3zw/7mo3kRHFp5MEDhqAdwy1fTGkHAwnkGOVsgpvQhL8B5n1qlb01jV3n/bI0ZfZp5lWA1k4w==}
@@ -6612,6 +6623,13 @@ snapshots:
       ibm-cloud-sdk-core: 5.4.3
     transitivePeerDependencies:
       - supports-color
+
+  '@iconify/react@6.0.2(react@19.2.0)':
+    dependencies:
+      '@iconify/types': 2.0.0
+      react: 19.2.0
+
+  '@iconify/types@2.0.0': {}
 
   '@isaacs/fs-minipass@4.0.1':
     dependencies:
