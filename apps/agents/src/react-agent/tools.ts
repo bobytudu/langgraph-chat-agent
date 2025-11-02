@@ -1,14 +1,29 @@
 import { z } from "zod";
 import { tool } from "@langchain/core/tools";
 import { WebClient, LogLevel } from "@slack/web-api";
+import slackUserData from "../slack_data/users.json" with { type: "json" };
 
-// WebClient instantiates a client that can call API methods
-// When using Bolt, you can use either `app.client` or the `client` passed to listeners.
-const client = new WebClient("token_here", {
-  // LogLevel can be imported and used to make debugging simpler
-  logLevel: LogLevel.DEBUG
-});
+const client = new WebClient(
+  "token_here",
+  {
+    logLevel: LogLevel.DEBUG,
+  }
+);
 
+function formatError(error: any) {
+  console.log({
+    type: "error",
+    message: error.message,
+  });
+  return JSON.stringify(
+    {
+      type: "error",
+      message: error.message,
+    },
+    null,
+    2
+  );
+}
 
 const search = tool(
   async ({ query }: { query: string }) => {
@@ -29,6 +44,29 @@ const search = tool(
   }
 );
 
+const listAllSlackUsers = tool(
+  () => {
+    try {
+      const result = slackUserData.map((user) => ({
+        id: user.id,
+        name: user.profile.real_name,
+        real_name: user.profile.real_name,
+        display_name: user.profile.display_name,
+      }))
+      return JSON.stringify({
+        total: result.length,
+        data: result
+      }, null, 2);
+    } catch (error: any) {
+      return formatError(error);
+    }
+  },
+  {
+    name: "list_all_slack_users",
+    description: "List all slack users",
+  }
+);
+
 const getAllSlackChannels = tool(
   async () => {
     try {
@@ -40,12 +78,9 @@ const getAllSlackChannels = tool(
           id: channel.id,
         };
       });
-      const value = result.channels?.length ?? 0;
-      console.log(value);
       return JSON.stringify(resultMap, null, 2);
     } catch (error: any) {
-      console.error(error.message);
-      return [];
+      return formatError(error);
     }
   },
   {
@@ -58,23 +93,29 @@ const getSlackChannelHistory = tool(
   async ({ channel_id }: { channel_id: string }) => {
     try {
       const result = await client.conversations.history({
-        "channel": channel_id, // "C04PG83EVDZ"
-        "latest": "1761902539828",
-        "limit": 10
+        channel: channel_id, // "C04PG83EVDZ"
+        latest: "1761902539828",
+        limit: 10,
       });
       return JSON.stringify(result, null, 2);
     } catch (error: any) {
-      console.error(error.message);
-      return [];
+      return formatError(error);
     }
   },
   {
     name: "get_slack_channel_history",
     description: "Get the history of a slack channel",
     schema: z.object({
-      channel_id: z.string().describe("The ID of the slack channel to get the history of."),
+      channel_id: z
+        .string()
+        .describe("The ID of the slack channel to get the history of."),
     }),
   }
 );
 
-export const TOOLS = [search, getAllSlackChannels, getSlackChannelHistory];
+export const TOOLS = [
+  search,
+  getAllSlackChannels,
+  getSlackChannelHistory,
+  listAllSlackUsers,
+];
