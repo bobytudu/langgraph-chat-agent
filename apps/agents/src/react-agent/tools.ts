@@ -10,6 +10,17 @@ const client = new WebClient(
   }
 );
 
+interface ThreadReplies extends Omit<ConversationHistory, 'reply_count'> {
+  
+}
+
+interface ConversationHistory {
+  text: string;
+  user: string;
+  thread_ts: string;
+  reply_count: number;
+}
+
 function formatError(error: any) {
   console.log({
     type: "error",
@@ -67,6 +78,26 @@ const getAllSlackChannels = tool(
   }
 );
 
+
+async function listAllReplies(channel_id: string, thread_ts: string): Promise<ThreadReplies[]> {
+  try {
+    const result = await client.conversations.replies({
+      // "channel": "C04PG83EVDZ",
+      // "ts": "1761932188.106999"
+      "channel": channel_id,
+      "ts": thread_ts,
+    })
+    const modifiedResult = result.messages?.map((message) => ({
+      text: message.text,
+      user: message.user,
+      thread_ts: message.ts,
+    }))
+    return modifiedResult as ThreadReplies[] || [];
+  } catch (error: any) {
+    throw new Error(error.message);
+  }
+}
+
 const getSlackChannelHistory = tool(
   async ({ channel_id }: { channel_id: string }) => {
     try {
@@ -75,7 +106,21 @@ const getSlackChannelHistory = tool(
         latest: "1761902539828", // date in milliseconds
         limit: 10,
       });
-      return JSON.stringify(result, null, 2);
+      const modifiedResult = result.messages?.map(async (message) => {
+        let replies: ThreadReplies[] = [];
+        if (message?.reply_count && message.reply_count > 0) {
+          replies = await listAllReplies(channel_id, message.ts as string);
+        }
+
+        return {
+          text: message.text,
+          user: message.user,
+          thread_ts: message.ts,
+          reply_count: message.reply_count,
+          replies,
+        }
+      })
+      return JSON.stringify(modifiedResult, null, 2);
     } catch (error: any) {
       return formatError(error);
     }
