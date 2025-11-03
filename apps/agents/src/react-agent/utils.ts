@@ -11,6 +11,19 @@ import { WebClient, LogLevel } from "@slack/web-api";
 export interface ThreadReplies extends Omit<ConversationHistory, 'reply_count'> {
   
 }
+
+export async function generateGraphPng(graph: any) {
+  try {
+    const drawableGraph = await graph.getGraphAsync();
+    const image = await drawableGraph.drawMermaidPng();
+    const imageBuffer = new Uint8Array(await image.arrayBuffer());
+
+    await fs.writeFile("graph.png", imageBuffer);
+    console.log("Graph PNG generated successfully");
+  } catch (error) {
+    console.error(error);
+  }
+}
 export function formatError(error: any) {
   console.log({
     type: "error",
