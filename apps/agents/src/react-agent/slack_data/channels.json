@@ -1,0 +1,6204 @@
+[
+  {
+    "id": "C04LAECHR6J",
+    "created": 1674659521,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882318315,
+    "name": "mvp-highlights",
+    "name_normalized": "mvp-highlights",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "This channel is for everything #mvp. Hold meetings, share docs, and make decisions together with your team.",
+      "creator": "U04LKFWCK52",
+      "last_set": 1674659521
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "use_case": "project",
+      "is_dormant": true
+    },
+    "previous_names": [
+      "mvp"
+    ]
+  },
+  {
+    "id": "C04LGU3RJRZ",
+    "created": 1674659405,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1759165886495,
+    "name": "random",
+    "name_normalized": "random",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+      "creator": "U04LKFWCK52",
+      "last_set": 1674659405
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 28,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct09HPSU8JG6",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09HPSU8E22",
+            "shared_ts": "1759165886.366059"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct09HPSU8JG6",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09HPSU8E22",
+            "shared_ts": "1759165886.366059"
+          }
+        }
+      ],
+      "use_case": "random"
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04LH24CD9Q",
+    "created": 1674659404,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757780680777,
+    "name": "general",
+    "name_normalized": "general",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": true,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+      "creator": "U04LKFWCK52",
+      "last_set": 1674659404
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 28,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct0942KV2ZD1",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093WPRDF9D",
+            "shared_ts": "1751566181.603909"
+          },
+          "label": ""
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct0942KV2ZD1",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093WPRDF9D",
+            "shared_ts": "1751566181.603909"
+          }
+        },
+        {
+          "type": "bookmarks"
+        }
+      ],
+      "use_case": "welcome"
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04LVN299J5",
+    "created": 1674659750,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1753996912498,
+    "name": "mvp-design",
+    "name_normalized": "mvp-design",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 25,
+    "properties": {
+      "canvas": {
+        "file_id": "F06E5EWNH89",
+        "is_empty": false,
+        "quip_thread_id": "ABY9AAbqk6F",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F06E5EWNH89"
+      },
+      "tabs": [
+        {
+          "id": "Ct08RZECMR0E",
+          "label": "Weekly Sync",
+          "type": "canvas",
+          "data": {
+            "file_id": "F06E5EWNH89",
+            "shared_ts": "1747155962.011549"
+          }
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct0949KB8NQH",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093PCSLZ19",
+            "shared_ts": "1751385609.619769"
+          },
+          "label": ""
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct08RZECMR0E",
+          "label": "Weekly Sync",
+          "type": "canvas",
+          "data": {
+            "file_id": "F06E5EWNH89",
+            "shared_ts": "1747155962.011549"
+          }
+        },
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct0949KB8NQH",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093PCSLZ19",
+            "shared_ts": "1751385609.619769"
+          }
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04PG83EVDZ",
+    "created": 1676361010,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1748051934426,
+    "name": "mvp-engineering",
+    "name_normalized": "mvp-engineering",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1747425155,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 25,
+    "properties": {
+      "canvas": {
+        "file_id": "F072CH03STW",
+        "is_empty": true,
+        "quip_thread_id": "RLa9AAg5qLS",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F072CH03STW"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04PGEECHQA",
+    "created": 1676362312,
+    "creator": "U04LQLFNYTF",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882319169,
+    "name": "facebook-business-suite-scrnshots",
+    "name_normalized": "facebook-business-suite-scrnshots",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04QAGCHQ9M",
+    "created": 1677062733,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882319328,
+    "name": "scrum",
+    "name_normalized": "scrum",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C04UAU41GQP",
+    "created": 1679316033,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1747636300756,
+    "name": "mvp-image-generation-ai",
+    "name_normalized": "mvp-image-generation-ai",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1698892508,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "canvas": {
+        "file_id": "F05NCJEBECW",
+        "is_empty": true,
+        "quip_thread_id": "cNM9AAS9AHk",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F05NCJEBECW"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "mvp-ai-tech",
+      "mvp-ai",
+      "mvp-ai-execution"
+    ]
+  },
+  {
+    "id": "C04V3DALP18",
+    "created": 1679469021,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882319949,
+    "name": "relevant-tweets",
+    "name_normalized": "relevant-tweets",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C050MNUBTPT",
+    "created": 1679738824,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882320528,
+    "name": "ai-latest-research-announcements",
+    "name_normalized": "ai-latest-research-announcements",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "ai-latest-research",
+      "ai-research",
+      "mvp-ai-research"
+    ]
+  },
+  {
+    "id": "C050PHA1WF9",
+    "created": 1680204754,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882320453,
+    "name": "competitors-latest-and-greatest",
+    "name_normalized": "competitors-latest-and-greatest",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "competition-collateral"
+    ]
+  },
+  {
+    "id": "C052F4M723H",
+    "created": 1681301423,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1740312150336,
+    "name": "meeting-notes",
+    "name_normalized": "meeting-notes",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 26,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C052ZGLF82H",
+    "created": 1681386539,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882320790,
+    "name": "relevant-podcasts",
+    "name_normalized": "relevant-podcasts",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C0536RPE0UW",
+    "created": 1681550023,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882320955,
+    "name": "social-media-platforms-developments",
+    "name_normalized": "social-media-platforms-developments",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C053VRWAWUF",
+    "created": 1682050103,
+    "creator": "U04P1F36T5M",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882320942,
+    "name": "api-ui",
+    "name_normalized": "api-ui",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "conversations regarding API-UI integration",
+      "creator": "U04P1F36T5M",
+      "last_set": 1682050104
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C054LGMEBFS",
+    "created": 1681886635,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1763593378630,
+    "name": "mvp-ai-design",
+    "name_normalized": "mvp-ai-design",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Product design related discussions for the AI components",
+      "creator": "U04LKFWCK52",
+      "last_set": 1681886635
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 28,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct08RA5W8WNB",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08RN5G9L3F",
+            "shared_ts": "1746818032.372329"
+          },
+          "label": ""
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct08RA5W8WNB",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08RN5G9L3F",
+            "shared_ts": "1746818032.372329"
+          }
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C054MPK9HD4",
+    "created": 1682430319,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882321126,
+    "name": "mvp-pull-requests",
+    "name_normalized": "mvp-pull-requests",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05BR2R0TMZ",
+    "created": 1686286728,
+    "creator": "U05AJURNQJK",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882322459,
+    "name": "mvp-image-gen-ai-outputs",
+    "name_normalized": "mvp-image-gen-ai-outputs",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1704058445,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 2,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "mvp-ai-outputs"
+    ]
+  },
+  {
+    "id": "C05ECT7U962",
+    "created": 1687929761,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882322768,
+    "name": "mvp-creative-optimization",
+    "name_normalized": "mvp-creative-optimization",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05HNKLN6FM",
+    "created": 1689722635,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323639,
+    "name": "tweets-relevant-enterprise-takes",
+    "name_normalized": "tweets-relevant-enterprise-takes",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05JCBH2XTJ",
+    "created": 1689720933,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323399,
+    "name": "understanding-attribution",
+    "name_normalized": "understanding-attribution",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05KDFPCBPH",
+    "created": 1690921322,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323533,
+    "name": "gtm-plg-tactics",
+    "name_normalized": "gtm-plg-tactics",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05L611CN5S",
+    "created": 1691048331,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1732215732650,
+    "name": "gtm-early-sales",
+    "name_normalized": "gtm-early-sales",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05LB609CP8",
+    "created": 1691331521,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323614,
+    "name": "datasets-product-images",
+    "name_normalized": "datasets-product-images",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05LJH4D31S",
+    "created": 1691232944,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323695,
+    "name": "partner-marketing-consultant-influencers",
+    "name_normalized": "partner-marketing-consultant-influencers",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 2,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05M57YP676",
+    "created": 1691599772,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323623,
+    "name": "google-marketing-platform",
+    "name_normalized": "google-marketing-platform",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05MWDAMGHL",
+    "created": 1692201031,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882323915,
+    "name": "upcoming-webinars",
+    "name_normalized": "upcoming-webinars",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1704058445,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 2,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05NK2GG1L2",
+    "created": 1692420945,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1736524012791,
+    "name": "mvp-linear-updates",
+    "name_normalized": "mvp-linear-updates",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05NUH0951P",
+    "created": 1692368536,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882324113,
+    "name": "martech-stack",
+    "name_normalized": "martech-stack",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05S23VGVPF",
+    "created": 1694600524,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1729230528467,
+    "name": "best-practices",
+    "name_normalized": "best-practices",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C05TCTB7Y6B",
+    "created": 1695655275,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1733644783414,
+    "name": "gtm-early-marketing",
+    "name_normalized": "gtm-early-marketing",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C066FV23FCG",
+    "created": 1700024385,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882325992,
+    "name": "video-ad-analysis-framework",
+    "name_normalized": "video-ad-analysis-framework",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C06BC51HF0W",
+    "created": 1703527319,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882326032,
+    "name": "creative-concept-examples",
+    "name_normalized": "creative-concept-examples",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C082CD73Y56",
+    "created": 1732107245,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1748698217478,
+    "name": "mvp-transaction-coding",
+    "name_normalized": "mvp-transaction-coding",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 5,
+    "properties": {
+      "canvas": {
+        "file_id": "F084FQ8NT9Q",
+        "quip_thread_id": "IGA9AABQXOl",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F084FQ8NT9Q"
+      },
+      "tabs": [
+        {
+          "id": "Ct08UV8V0M4J",
+          "type": "canvas",
+          "data": {
+            "file_id": "F084FQ8NT9Q",
+            "shared_ts": "1748698214.584709"
+          },
+          "label": ""
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct08UV8V0M4J",
+          "type": "canvas",
+          "data": {
+            "file_id": "F084FQ8NT9Q",
+            "shared_ts": "1748698214.584709"
+          }
+        },
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "mvp-transaction-categorization"
+    ]
+  },
+  {
+    "id": "C084ZMYM2F3",
+    "created": 1733910732,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757600135641,
+    "name": "module-ai-financial-analysis",
+    "name_normalized": "module-ai-financial-analysis",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Channel for everything related to AI accelerating financial analysis &amp; strategy",
+      "creator": "U04LKFWCK52",
+      "last_set": 1733910908
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09F562EQ01",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09F562AXH7",
+            "shared_ts": "1757600135.544499"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09F562EQ01",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09F562AXH7",
+            "shared_ts": "1757600135.544499"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "module-financial-analysis",
+      "mvp-financial-analysis",
+      "mvp-ai-financial-analysis"
+    ]
+  },
+  {
+    "id": "C085TAPJ8Q5",
+    "created": 1734629494,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1750099867102,
+    "name": "module-revenue-subledger",
+    "name_normalized": "module-revenue-subledger",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "Everything to land revenue related functionality",
+      "creator": "U04LKFWCK52",
+      "last_set": 1734629542
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "canvas": {
+        "file_id": "F085WBSD2AF",
+        "is_empty": true,
+        "quip_thread_id": "Tca9AAP1HyS",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F085WBSD2AF"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct091H4WFQTV",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091Q3BBC1Y",
+            "shared_ts": "1750099866.734029"
+          },
+          "label": ""
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct091H4WFQTV",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091Q3BBC1Y",
+            "shared_ts": "1750099866.734029"
+          }
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    },
+    "previous_names": [
+      "mvp-revenue-subledger",
+      "mvp-revenue"
+    ]
+  },
+  {
+    "id": "C0896RE0R2N",
+    "created": 1737140697,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1749677003177,
+    "name": "module-cash-subledger",
+    "name_normalized": "module-cash-subledger",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "Cash = Bank + Credit Card",
+      "creator": "U04LKFWCK52",
+      "last_set": 1737141108
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct08NJ9M7Q1W",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08NJ9M8K32",
+            "shared_ts": "1744413731.522619"
+          },
+          "label": ""
+        },
+        {
+          "id": "Ct091EJS60BB",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091RAKSVSL",
+            "shared_ts": "1749677002.666979"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct08NJ9M7Q1W",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08NJ9M8K32",
+            "shared_ts": "1744413731.522619"
+          }
+        },
+        {
+          "id": "Ct091EJS60BB",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091RAKSVSL",
+            "shared_ts": "1749677002.666979"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "mvp-cash-subledger"
+    ]
+  },
+  {
+    "id": "C08CSQ25HEY",
+    "created": 1739256219,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1744319550594,
+    "name": "mvp-frontend-eng",
+    "name_normalized": "mvp-frontend-eng",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C08DENYFEKS",
+    "created": 1739280125,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1753356881310,
+    "name": "module-financial-statement-reporting",
+    "name_normalized": "module-financial-statement-reporting",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Channel for e2e financial reporting - both Maximor-managed reports and 3P-headless-BI-managed reports",
+      "creator": "U04LKFWCK52",
+      "last_set": 1739280206
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 24,
+    "properties": {
+      "canvas": {
+        "file_id": "F08JD119869",
+        "is_empty": true,
+        "quip_thread_id": "dBF9AASOFKs",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F08JD119869"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct097A9EE2JW",
+          "label": "Facilio",
+          "type": "folder",
+          "data": {
+            "folder_bookmark_id": "Bk097A9EC49G"
+          }
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct097A9EE2JW",
+          "label": "Facilio",
+          "type": "folder",
+          "data": {
+            "folder_bookmark_id": "Bk097A9EC49G"
+          }
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    },
+    "previous_names": [
+      "module-financial-reporting",
+      "mvp-financial-reporting"
+    ]
+  },
+  {
+    "id": "C08EAT3HXJ6",
+    "created": 1740086084,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756685066323,
+    "name": "module-integrations-and-data-platform",
+    "name_normalized": "module-integrations-and-data-platform",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Channel for discussions regarding integrations to 3P systems (accounting, AP, AR, payroll, etc)",
+      "creator": "U04LKFWCK52",
+      "last_set": 1740086123
+    },
+    "topic": {
+      "value": "Data sync &amp; integrations to 3P systems (accounting, AP, AR, payroll, etc)",
+      "creator": "U04LKFWCK52",
+      "last_set": 1740331549
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 24,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct096ZPBBP1P",
+          "type": "canvas",
+          "data": {
+            "file_id": "F096JA7PEMB",
+            "shared_ts": "1752958883.938819"
+          },
+          "label": ""
+        },
+        {
+          "id": "Ct096JA9TXV3",
+          "label": "Notion",
+          "type": "folder",
+          "data": {
+            "folder_bookmark_id": "Bk096JA9SQE9"
+          }
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct096ZPBBP1P",
+          "type": "canvas",
+          "data": {
+            "file_id": "F096JA7PEMB",
+            "shared_ts": "1752958883.938819"
+          }
+        },
+        {
+          "id": "Ct096JA9TXV3",
+          "label": "Notion",
+          "type": "folder",
+          "data": {
+            "folder_bookmark_id": "Bk096JA9SQE9"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "module-central-data-hub",
+      "module-3p-data-integrations",
+      "mvp-3p-data-sync-integrations",
+      "mvp-3p-integrations"
+    ]
+  },
+  {
+    "id": "C08HT0Z5EHF",
+    "created": 1741816701,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1749989841497,
+    "name": "module-expenses-subledger",
+    "name_normalized": "module-expenses-subledger",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 5,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": [
+      "mvp-expenses-subledger"
+    ]
+  },
+  {
+    "id": "C08JG6QJ24A",
+    "created": 1742393616,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1744986566159,
+    "name": "ext-website-ia-maximor",
+    "name_normalized": "ext-website-ia-maximor",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 5,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C08JS1CN6HE",
+    "created": 1742247357,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1742247357973,
+    "name": "answergrid-flavor-ai",
+    "name_normalized": "answergrid-flavor-ai",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": true,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1742247357,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 0,
+    "frozen_reason": "connection_severed",
+    "previous_names": []
+  },
+  {
+    "id": "C08R8NUUSD8",
+    "created": 1746569952,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1763435524155,
+    "name": "module-close-checklist-recon",
+    "name_normalized": "module-close-checklist-recon",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct09HHA1GM18",
+          "type": "list",
+          "data": {
+            "file_id": "F09HWV792RX",
+            "shared_ts": "1759003371.394799"
+          },
+          "label": ""
+        },
+        {
+          "id": "Ct09UEB7AVQ8",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09TL27JQPL",
+            "shared_ts": "1763435524.057019"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct09HHA1GM18",
+          "type": "list",
+          "data": {
+            "file_id": "F09HWV792RX",
+            "shared_ts": "1759003371.394799"
+          }
+        },
+        {
+          "id": "Ct09UEB7AVQ8",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09TL27JQPL",
+            "shared_ts": "1763435524.057019"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "module-close-recon",
+      "module-close-checklist"
+    ]
+  },
+  {
+    "id": "C08RAV8663D",
+    "created": 1746603895,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1749287487737,
+    "name": "module-excel-plugin",
+    "name_normalized": "module-excel-plugin",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 5,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C08RSSK302W",
+    "created": 1746826955,
+    "creator": "U07KRQC4FAM",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1752503781994,
+    "name": "mvp-backend-eng",
+    "name_normalized": "mvp-backend-eng",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct091V5AC7R9",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091LJV0487",
+            "shared_ts": "1750260035.814639"
+          },
+          "label": ""
+        },
+        {
+          "type": "workflows",
+          "label": "",
+          "id": "workflows"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct091V5AC7R9",
+          "type": "canvas",
+          "data": {
+            "file_id": "F091LJV0487",
+            "shared_ts": "1750260035.814639"
+          }
+        },
+        {
+          "type": "workflows"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C08TEP603QW",
+    "created": 1747938014,
+    "creator": "U07KRQC4FAM",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1752239456246,
+    "name": "module-consolidation-and-elimination",
+    "name_normalized": "module-consolidation-and-elimination",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 12,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C0914NMD8V6",
+    "created": 1749274099,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1754618177952,
+    "name": "archive--incubation-financial-analysis",
+    "name_normalized": "archive--incubation-financial-analysis",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "incubation-financial-analysis",
+      "v0-financial-analysis"
+    ]
+  },
+  {
+    "id": "C0918KA1Y9E",
+    "created": 1749445103,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757958271929,
+    "name": "alerts-be-axiom",
+    "name_normalized": "alerts-be-axiom",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "tabs": [
+        {
+          "id": "Ct093BQ93ZA9",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093F1CDXNG",
+            "shared_ts": "1751037264.329109"
+          },
+          "label": ""
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct093BQ93ZA9",
+          "type": "canvas",
+          "data": {
+            "file_id": "F093F1CDXNG",
+            "shared_ts": "1751037264.329109"
+          }
+        },
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": [
+      "alerts-axiom",
+      "axiom-alerts",
+      "alerts"
+    ]
+  },
+  {
+    "id": "C091J8WF2U9",
+    "created": 1749735842,
+    "creator": "U08A00MAMN3",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1761250424161,
+    "name": "platform-observability-and-devx",
+    "name_normalized": "platform-observability-and-devx",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 13,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "module-observability-and-devx"
+    ]
+  },
+  {
+    "id": "C0922QH4SCE",
+    "created": 1750367483,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756407651951,
+    "name": "archive-central-data-hub",
+    "name_normalized": "archive-central-data-hub",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 7,
+    "properties": {
+      "tabs": [
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "bookmarks"
+        },
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": [
+      "module-central-data-hub",
+      "incubation-central-data-hub"
+    ]
+  },
+  {
+    "id": "C092G9STLF7",
+    "created": 1750582488,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756944747233,
+    "name": "deployments-backend",
+    "name_normalized": "deployments-backend",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 14,
+    "properties": {
+      "meeting_notes": {
+        "file_id": "F09BS4MTANQ"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09BS4NPXS8",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09BS4MTANQ",
+            "shared_ts": "1755886778.454799"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09BS4NPXS8",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09BS4MTANQ",
+            "shared_ts": "1755886778.454799"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "deployments"
+    ]
+  },
+  {
+    "id": "C092HFHJ20N",
+    "created": 1750701957,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1752958891428,
+    "name": "mvp-demo-engineering",
+    "name_normalized": "mvp-demo-engineering",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 24,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct096F7ETL3V",
+          "type": "canvas",
+          "data": {
+            "file_id": "F096H2B3LJ2",
+            "shared_ts": "1752958891.314109"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct096F7ETL3V",
+          "type": "canvas",
+          "data": {
+            "file_id": "F096H2B3LJ2",
+            "shared_ts": "1752958891.314109"
+          }
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C092U2ZSS1H",
+    "created": 1750863290,
+    "creator": "U092FQZ8XNE",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757543019684,
+    "name": "maximor-interns",
+    "name_normalized": "maximor-interns",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C092ZES9AKX",
+    "created": 1750864032,
+    "creator": "U084E93SV54",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757446854972,
+    "name": "nyc-office",
+    "name_normalized": "nyc-office",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 15,
+    "properties": {
+      "meeting_notes": {
+        "file_id": "F09E95N3K51"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct09EABYFTSR",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09E95N3K51",
+            "shared_ts": "1757446854.665179"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct09EABYFTSR",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09E95N3K51",
+            "shared_ts": "1757446854.665179"
+          }
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C093L0GGVAM",
+    "created": 1750939046,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1755057992842,
+    "name": "alerts-fe-mixpanel",
+    "name_normalized": "alerts-fe-mixpanel",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": [
+      "alerts-fe"
+    ]
+  },
+  {
+    "id": "C0945M72J3E",
+    "created": 1751483750,
+    "creator": "U08QZSCHTT4",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1754083129152,
+    "name": "fathom-highlights",
+    "name_normalized": "fathom-highlights",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C095ELJS29G",
+    "created": 1752254404,
+    "creator": "U07KRQC4FAM",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1754847178443,
+    "name": "fathom-notes-aviral",
+    "name_normalized": "fathom-notes-aviral",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C095VPWASS2",
+    "created": 1752614955,
+    "creator": "U084E93SV54",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1752615156896,
+    "name": "linear-cash-module-notifications",
+    "name_normalized": "linear-cash-module-notifications",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "All Linear updates related to the Cash Module/Pod",
+      "creator": "U084E93SV54",
+      "last_set": 1752615156
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "previous_names": []
+  },
+  {
+    "id": "C096KFY81GE",
+    "created": 1753060160,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1755653808970,
+    "name": "ai-automation-ideas-backlog",
+    "name_normalized": "ai-automation-ideas-backlog",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 1,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C097FHJ2PGV",
+    "created": 1753447140,
+    "creator": "U06R5AQHMSB",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1758468175498,
+    "name": "pen-test-success",
+    "name_normalized": "pen-test-success",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 13,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C097FPKKE4D",
+    "created": 1753449503,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756601840466,
+    "name": "archive-maxi-ai",
+    "name_normalized": "archive-maxi-ai",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": true,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 0,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09AMFDAUNR",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09AMFDAULV",
+            "shared_ts": "1755354849.846179"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09AMFDAUNR",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09AMFDAULV",
+            "shared_ts": "1755354849.846179"
+          }
+        }
+      ]
+    },
+    "previous_names": [
+      "maxi-ai"
+    ]
+  },
+  {
+    "id": "C09854RAUJJ",
+    "created": 1753908146,
+    "creator": "U084E93SV54",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1754714458624,
+    "name": "artificial-intelligence",
+    "name_normalized": "artificial-intelligence",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 20,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09AEENNX2L",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09AEENM8V6",
+            "shared_ts": "1754714458.527269"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09AEENNX2L",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09AEENM8V6",
+            "shared_ts": "1754714458.527269"
+          }
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C099A9JD0QG",
+    "created": 1754139859,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762533586540,
+    "name": "ext-maximor-snowflake",
+    "name_normalized": "ext-maximor-snowflake",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09AL2NJ00M",
+    "created": 1755295446,
+    "creator": "U08QZSCHTT4",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1758901489031,
+    "name": "rant--bharath",
+    "name_normalized": "rant--bharath",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09HBQ04J86",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09HBQ03X8E",
+            "shared_ts": "1758901488.938609"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09HBQ04J86",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09HBQ03X8E",
+            "shared_ts": "1758901488.938609"
+          }
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09CNJK1L6R",
+    "created": 1756493647,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1760628151034,
+    "name": "module-controls-monitoring",
+    "name_normalized": "module-controls-monitoring",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 14,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "module-monitoring-controls"
+    ]
+  },
+  {
+    "id": "C09E002NDUZ",
+    "created": 1757002954,
+    "creator": "U0972T7N5GT",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762376779557,
+    "name": "ext-suiteworld",
+    "name_normalized": "ext-suiteworld",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 11,
+    "properties": {
+      "meeting_notes": {
+        "file_id": "F09GKGLRUAD"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct09GAGFQEEQ",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GKGLRUAD",
+            "shared_ts": "1758298833.553719"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct09GAGFQEEQ",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GKGLRUAD",
+            "shared_ts": "1758298833.553719"
+          }
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09E18ZERQC",
+    "created": 1757193419,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762307025870,
+    "name": "feature-excel-workflow-agent",
+    "name_normalized": "feature-excel-workflow-agent",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 6,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09EK7Y40L8",
+    "created": 1757085420,
+    "creator": "U084E93SV54",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762434325304,
+    "name": "fastapi-migration",
+    "name_normalized": "fastapi-migration",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 13,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09F3JQFHCK",
+    "created": 1757920978,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1758036409449,
+    "name": "ext-maximor-sprinto",
+    "name_normalized": "ext-maximor-sprinto",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09GE4V930R",
+    "created": 1758228275,
+    "creator": "U09E0SJGWDR",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762051011057,
+    "name": "gtm-wins",
+    "name_normalized": "gtm-wins",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 11,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09GEE89FT3",
+    "created": 1758232200,
+    "creator": "U084E93SV54",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1758232200851,
+    "name": "alerts-3p-services",
+    "name_normalized": "alerts-3p-services",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 14,
+    "previous_names": []
+  },
+  {
+    "id": "C09GZCLHG77",
+    "created": 1758788513,
+    "creator": "U09CTTVNUMT",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1761559701137,
+    "name": "rant--saikat",
+    "name_normalized": "rant--saikat",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09HFA8SDA7",
+    "created": 1759119981,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1761714457167,
+    "name": "hubspot-form-leads",
+    "name_normalized": "hubspot-form-leads",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 3,
+    "properties": {
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09HWCGJGCR",
+    "created": 1758984091,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1758984253393,
+    "name": "module-close-automation",
+    "name_normalized": "module-close-automation",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 6,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09JF1HJQGG",
+    "created": 1759121751,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1759121751554,
+    "name": "website-form-leads",
+    "name_normalized": "website-form-leads",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "previous_names": []
+  },
+  {
+    "id": "C09MCE4QHB2",
+    "created": 1760481368,
+    "creator": "U08QZSCHTT4",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762283284455,
+    "name": "_temp-ice-skating-nyc-oct-2025",
+    "name_normalized": "_temp-ice-skating-nyc-oct-2025",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": true,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 0,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09Q3PR5UAK",
+    "created": 1762216930,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762620380835,
+    "name": "module-fixed-asset-subledger",
+    "name_normalized": "module-fixed-asset-subledger",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 7,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09QH6EQSPQ",
+    "created": 1762216993,
+    "creator": "U04LKFWCK52",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762473415040,
+    "name": "module-accruals-subledger",
+    "name_normalized": "module-accruals-subledger",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 7,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09QV04SSHX",
+    "created": 1762188473,
+    "creator": "U0972T7N5GT",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762188473478,
+    "name": "deal-stage-change-alert",
+    "name_normalized": "deal-stage-change-alert",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "previous_names": []
+  },
+  {
+    "id": "C09RDKH6LFN",
+    "created": 1762453447,
+    "creator": "U06R5AQHMSB",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762453740470,
+    "name": "mvp-rbac",
+    "name_normalized": "mvp-rbac",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "Everything related to Role based access control",
+      "creator": "U06R5AQHMSB",
+      "last_set": 1762453740
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 14,
+    "previous_names": [
+      "everything-access-control"
+    ]
+  },
+  {
+    "id": "C09RFGWSRTQ",
+    "created": 1762530401,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762530937964,
+    "name": "ext-eng-trial-vyankatesh",
+    "name_normalized": "ext-eng-trial-vyankatesh",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 6,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09TTL1RJJY",
+    "created": 1763476909,
+    "creator": "U08UQMY7K7T",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1763477169130,
+    "name": "ext-maximor-springverify",
+    "name_normalized": "ext-maximor-springverify",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T04M6NKBGQY",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 4,
+    "properties": {
+      "has_slack_connect_invite_created": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C0824UJQMBQ",
+    "created": 1732537013,
+    "creator": "U02GH6NKX9R",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1748702454002,
+    "name": "ext-branding-ia-x-maximor",
+    "name_normalized": "ext-branding-ia-x-maximor",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T01QHHGKETX",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 14,
+    "properties": {
+      "canvas": {
+        "file_id": "F085T3T5SQ0",
+        "is_empty": false,
+        "quip_thread_id": "daH9AANmK3U",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F085T3T5SQ0"
+      },
+      "tabs": [
+        {
+          "id": "Ct08UEMA6RN3",
+          "label": "Resources",
+          "type": "canvas",
+          "data": {
+            "file_id": "F085T3T5SQ0",
+            "shared_ts": "1748702444.142439"
+          }
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct08UEMA6RN3",
+          "label": "Resources",
+          "type": "canvas",
+          "data": {
+            "file_id": "F085T3T5SQ0",
+            "shared_ts": "1748702444.142439"
+          }
+        },
+        {
+          "type": "files"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    },
+    "previous_names": [
+      "ext-branding-iaxflavor",
+      "ext-iaxflavor"
+    ]
+  },
+  {
+    "id": "C0888GGUE7J",
+    "created": 1736247302,
+    "creator": "U02GH6NKX9R",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762937120507,
+    "name": "ext-iaxflavor-deck",
+    "name_normalized": "ext-iaxflavor-deck",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T01QHHGKETX",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 13,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "has_slack_connect_invite_created": true
+    },
+    "previous_names": [
+      "ext-iaxflavor-pitchdeck"
+    ]
+  },
+  {
+    "id": "C086CJVU2SY",
+    "created": 1734973037,
+    "creator": "U065HE668SK",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762373503446,
+    "name": "ext-rutter-maximor",
+    "name_normalized": "ext-rutter-maximor",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "TFJGQC33R",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 29,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": [
+      "ext-rutter-flavor",
+      "rutter-flavor-ai"
+    ]
+  },
+  {
+    "id": "C08AE8NLWJV",
+    "created": 1737665621,
+    "creator": "U0265KHMGRK",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762809548065,
+    "name": "maximor-ag-grid-collab",
+    "name_normalized": "maximor-ag-grid-collab",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T025AE86FJT",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 10,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09FFL5STBP",
+    "created": 1758042428,
+    "creator": "U0730VA0V1Q",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1760632878911,
+    "name": "nooks-maximor",
+    "name_normalized": "nooks-maximor",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "T0189EM7QL8",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09HLAWFQHX",
+    "created": 1758828650,
+    "creator": "U08ET1G8BPV",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1759518492448,
+    "name": "ext-stytch-maximor",
+    "name_normalized": "ext-stytch-maximor",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "TUA4A0G4E",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 15,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09QJG17H0A",
+    "created": 1762208428,
+    "creator": "WNY170WDT",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1763560846338,
+    "name": "accelerator-tech-help",
+    "name_normalized": "accelerator-tech-help",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": true,
+    "is_ext_shared": true,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "conversation_host_id": "ED4J36UUX",
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "num_members": 31,
+    "previous_names": []
+  },
+  {
+    "id": "C061Z3G7U3C",
+    "created": 1697744703,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1748543506183,
+    "name": "mvp-creative-intelligence-assistant",
+    "name_normalized": "mvp-creative-intelligence-assistant",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 3,
+    "properties": {
+      "canvas": {
+        "file_id": "F065H868M1T",
+        "is_empty": true,
+        "quip_thread_id": "bIU9AAaDHYg",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F065H868M1T"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C06J44CRQKD",
+    "created": 1707500943,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1724882326277,
+    "name": "gen-ai-sota-survey",
+    "name_normalized": "gen-ai-sota-survey",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 4,
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C07HW527R1A",
+    "created": 1724215017,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1761715426572,
+    "name": "prospects-needing-workflow-understanding",
+    "name_normalized": "prospects-needing-workflow-understanding",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Channel to actively track prospects who are needing workflow understanding for us to make sales progress",
+      "creator": "U04LKFWCK52",
+      "last_set": 1754353218
+    },
+    "topic": {
+      "value": "Channel to actively track prospects who are needing workflow understanding for us to make sales progress",
+      "creator": "U04LKFWCK52",
+      "last_set": 1754353213
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "meeting_notes": {
+        "file_id": "F09L17BN92N"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct09KZ4FT5JA",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09L17BN92N",
+            "shared_ts": "1760216253.069509"
+          },
+          "label": ""
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct09KZ4FT5JA",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09L17BN92N",
+            "shared_ts": "1760216253.069509"
+          }
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    }
+  },
+  {
+    "id": "C07TY8F4W0H",
+    "created": 1729878419,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1760110776680,
+    "name": "collab-accounting-engineering-design-gtm",
+    "name_normalized": "collab-accounting-engineering-design-gtm",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1747403335,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 25,
+    "properties": {
+      "canvas": {
+        "file_id": "F0882791CMA",
+        "is_empty": true,
+        "quip_thread_id": "SFN9AAsfPSj",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F0882791CMA"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct09470FQ961",
+          "type": "canvas",
+          "data": {
+            "file_id": "F094W7730QG",
+            "shared_ts": "1751549691.107089"
+          },
+          "label": ""
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct09470FQ961",
+          "type": "canvas",
+          "data": {
+            "file_id": "F094W7730QG",
+            "shared_ts": "1751549691.107089"
+          }
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "C080T8F5GUF",
+    "created": 1731861351,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1755882535416,
+    "name": "latest-llms-ai-ml",
+    "name_normalized": "latest-llms-ai-ml",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "Channel for latest relevant developments across Gen AI &amp; Predictive AI",
+      "creator": "U04LKFWCK52",
+      "last_set": 1733911035
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C086VATQX5M",
+    "created": 1736009413,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1755024932056,
+    "name": "daily-logistics-oof",
+    "name_normalized": "daily-logistics-oof",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1747400250,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Channel to post messages about daily availability",
+      "creator": "U04LGUHT5D1",
+      "last_set": 1755024905
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 23,
+    "properties": {
+      "canvas": {
+        "file_id": "F08CWNJ2DHD",
+        "is_empty": true,
+        "quip_thread_id": "UXR9AAkYyPd",
+        "is_migrated": true
+      },
+      "meeting_notes": {
+        "file_id": "F08CWNJ2DHD"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true,
+          "id": "channel_canvas"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        },
+        {
+          "label": "Canvas",
+          "type": "channel_canvas",
+          "is_disabled": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "C08C1JP64HX",
+    "created": 1738668845,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756944714843,
+    "name": "backend-pr-review-requests",
+    "name_normalized": "backend-pr-review-requests",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "All PR review requests and pings should be public and happen here. This channel also be used to propose any quick policy changes on how to do this process",
+      "creator": "U04LGUHT5D1",
+      "last_set": 1738668981
+    },
+    "topic": {
+      "value": "All PR review requests and pings should be public and happen here.",
+      "creator": "U04LGUHT5D1",
+      "last_set": 1738668978
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 21,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    }
+  },
+  {
+    "id": "C08D0C3B6CT",
+    "created": 1739381928,
+    "creator": "U07KRQC4FAM",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1749837580665,
+    "name": "frontend-pr-review-requests",
+    "name_normalized": "frontend-pr-review-requests",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 1747403321,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "All PR review requests and pings should be public and should happen here. This channel can also be used to propose any quick policy changes on how to do this process.",
+      "creator": "U07KRQC4FAM",
+      "last_set": 1739382169
+    },
+    "topic": {
+      "value": "All PR review requests for frontend should be public and should happen here.",
+      "creator": "U07KRQC4FAM",
+      "last_set": 1739382131
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 16,
+    "properties": {
+      "tabs": [
+        {
+          "id": "Ct08R2TPT7SS",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08R2TPQ8LE",
+            "shared_ts": "1746620259.694949"
+          },
+          "label": ""
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct08R2TPT7SS",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08R2TPQ8LE",
+            "shared_ts": "1746620259.694949"
+          }
+        },
+        {
+          "type": "files"
+        }
+      ]
+    }
+  },
+  {
+    "id": "C08D7E88W68",
+    "created": 1739443914,
+    "creator": "U07KRQC4FAM",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1756944644662,
+    "name": "figma-updates",
+    "name_normalized": "figma-updates",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 20,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    }
+  },
+  {
+    "id": "C08JS9E3AL9",
+    "created": 1742407929,
+    "creator": "U07PZDWQERX",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1762027904194,
+    "name": "design-system-update",
+    "name_normalized": "design-system-update",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "channel to post updates specifically on the design system update and to keep in the loop!",
+      "creator": "U07PZDWQERX",
+      "last_set": 1742408079
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 17,
+    "properties": {
+      "tabs": [
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "id": "Ct08P3QA6GJV",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08NWCRFRK5",
+            "shared_ts": "1744988582.582449",
+            "mute_edit_updates": false
+          },
+          "label": ""
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "bookmarks"
+        },
+        {
+          "id": "Ct08P3QA6GJV",
+          "type": "canvas",
+          "data": {
+            "file_id": "F08NWCRFRK5",
+            "shared_ts": "1744988582.582449",
+            "mute_edit_updates": false
+          }
+        },
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C08SWN4BBL4",
+    "created": 1747436318,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1761936253341,
+    "name": "india-team",
+    "name_normalized": "india-team",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C0909T4CFEU",
+    "created": 1748876095,
+    "creator": "U04LGUHT5D1",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1760375679291,
+    "name": "mvp-close-checklist-internal",
+    "name_normalized": "mvp-close-checklist-internal",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": true,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "Internal Discussions and future facing discussions",
+      "creator": "U04LGUHT5D1",
+      "last_set": 1748876174
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 17,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "is_dormant": true
+    }
+  },
+  {
+    "id": "C09AVEJMRDW",
+    "created": 1755024593,
+    "creator": "U08QZSCHTT4",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1755024983045,
+    "name": "not-same-day-logistics-oof",
+    "name_normalized": "not-same-day-logistics-oof",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Any logistics or oof related message beyond the current day",
+      "creator": "U04LGUHT5D1",
+      "last_set": 1755024983
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 22
+  },
+  {
+    "id": "C09EJE6JL5P",
+    "created": 1757354016,
+    "creator": "U08A00MAMN3",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T04M6NKBGQY",
+    "updated": 1757355463494,
+    "name": "frontend-only-discussions",
+    "name_normalized": "frontend-only-discussions",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": true,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T04M6NKBGQY"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 9,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    }
+  }
+]

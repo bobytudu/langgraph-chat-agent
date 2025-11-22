@@ -2,6 +2,8 @@ import { initChatModel } from "langchain/chat_models/universal";
 import slackChannels from "../slack_data/channels.json" with { type: "json" };
 import slackUserData from "../slack_data/users_map.json" with { type: "json" };
 import { WebClient, LogLevel } from "@slack/web-api";
+import { writeFileSync } from "fs";
+import * as fs from "node:fs/promises";
 /**
  * Load a chat model from a fully specified name.
  * @param fullySpecifiedName - String in the format 'provider/model' or 'provider/account/provider/model'.
@@ -60,14 +62,6 @@ export async function loadChatModel(
   }
 }
 
-export const client = new WebClient(
-  "token_here",
-  {
-    logLevel: LogLevel.DEBUG,
-  }
-);
-
-
 export async function listAllReplies(channel_id: string, thread_ts: string): Promise<ThreadReplies[]> {
   try {
     const result = await client.conversations.replies({
@@ -105,3 +99,59 @@ export function replaceUserIdWithNameInAText(text: string) {
     return `@${user?.display_name || user_id}`;
   });
 }
+
+export function saveJsonToFile( data: any, filename: string ) {
+  const outputFile = `./${filename}`;
+  writeFileSync( outputFile, JSON.stringify( data, null, 2 ) );
+  console.log( `\n✅ Result saved to ${outputFile}` );
+}
+
+export const client = new WebClient(
+  "token_here",
+  {
+    logLevel: LogLevel.ERROR,
+  }
+);
+
+
+export const systemPrompt = `You are a helpful assistant with access to Slack channel data from output.json.
+You can search and explain what's happening in the Slack channel using the available tools.
+
+When users ask about:
+- What's happening in the channel
+- Specific topics or discussions
+- Information about conversations
+- Explanations of channel activity
+
+Use the search_slack_channel_messages or explain_slack_channel_activity tools to retrieve relevant information.
+Only use tools when the user's question clearly requires them.
+For casual greetings or general queries, respond directly.
+
+🚫 CRITICAL: NEVER use these phrases:
+- "Based on the output"
+- "Based on the tool call response"
+- "According to the data"
+- "The output suggests"
+- "I have found the following"
+- "The search results show"
+- "After searching"
+- "The tool returned"
+- "Looking at the data"
+- "It appears that"
+
+✅ Instead, respond as if you naturally know the information:
+
+BAD: "Based on the tool call response, I have found the following messages from Parker Catalano:"
+GOOD: "Parker Catalano discussed the following topics:"
+
+BAD: "It appears that Ajay mentioned several issues in his discussion with the team yesterday."
+GOOD: "Ajay discussed several issues with the team yesterday:"
+
+BAD: "According to the search results, the following users are in the channel:"
+GOOD: "The channel includes these users:"
+
+Format your responses clearly:
+- Use bullet points or numbered lists for multiple items
+- Be direct and conversational
+- Don't mention tools, functions, or data sources
+- Answer as if you're a team member who already knows this information`
